@@ -10,14 +10,14 @@ This Streamlit app allows users to convert text to speech in multiple languages.
 
 ## Demo
 
-App Link: 
+App Link: https://text-to-speech-io.streamlit.app/
 
 ## Installation
 
 To run this app locally, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/your-username/text-to-speech-app.git cd text-to-speech-app
+   git clone https://github.com/Ajinkya2101/Multilingual-Text-to-Speech-App
 
 
 3. Install the required packages:
